@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3ecda4a.css",
+    "main.js": "/static/js/main.93eb31d3.js",
+    "static/js/787.3961376d.chunk.js": "/static/js/787.3961376d.chunk.js",
+    "static/media/stationInfo.png": "/static/media/stationInfo.4564f6ae96f25436b7d8.png",
+    "index.html": "/index.html",
+    "main.a3ecda4a.css.map": "/static/css/main.a3ecda4a.css.map",
+    "main.93eb31d3.js.map": "/static/js/main.93eb31d3.js.map",
+    "787.3961376d.chunk.js.map": "/static/js/787.3961376d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ecda4a.css",
+    "static/js/main.93eb31d3.js"
+  ]
+}
